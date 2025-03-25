@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        $numero = 10;
+        $numero = 15;
 
         // Primera parte
         for ($i = 1; $i<= $numero; $i++) {
